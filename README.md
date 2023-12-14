@@ -38,10 +38,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ![React Portfolio](./src/assets/React-Porfolio.png)
 
-Repository Link:  
-Demo Link:
+Repository Link: https://github.com/pvang1987/React-Porfolio  
+Demo Link: https://pa-react-porfolio.netlify.app/
 
 ## Credits
 
-- YouTube Tutorial (https://www.youtube.com/watch?v=2kg0z1qNrkw)
-- Canva.com (for logo)
+- YouTube Walkthrough Tutorial and icons (https://www.youtube.com/watch?v=2kg0z1qNrkw)
+- Canva.com for logo creation
