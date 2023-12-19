@@ -1,9 +1,11 @@
 import CryptoZ0ne from '../assets/CryptoZ0ne.png'
 import DineNDash from '../assets/Dine-n-Dash.png'
+import RxSureScribe from '../assets/Rx-SureScribe.png'
 import WeatherDash from '../assets/WeatherDashboard.png'
 import WorkDaySch from '../assets/WorkDayScheduler.png'
 import PWA from '../assets/PWA-Text-Editor.png'
 import EmployeeTracker from '../assets/Employee-Tracker.png'
+
 
 
 const Projects = () => {
@@ -61,14 +63,33 @@ const Projects = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span>
-                                Weather Dashboard
+                                Dine &apos;n Dash
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://pvang1987.github.io/Weather-Dashboard/">
+                                <a href="https://dinendash-66e7246af15f.herokuapp.com/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                    Demo</button>
+                                </a>
+                                <a href="https://github.com/MatthewChappelle/Dine_In_Dash/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                    Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div style={{backgroundImage: `url(${RxSureScribe})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* Hover Effect */}
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
+                            <span>
+                                Rx SureScribe
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://rx-surescribe-9b9c8ee84e73.herokuapp.com/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo</button>
                                     </a>
-                                    <a href="https://github.com/pvang1987/Weather-Dashboard">
+                                    <a href="https://github.com/DevJake99/RX-SureScribe">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code</button>
                                     </a>
@@ -118,7 +139,7 @@ const Projects = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span>
-                                React JS Application
+                                Employee Tracker
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://watch.screencastify.com/v/u9RSRF1pbujj5WxBgkqo">
