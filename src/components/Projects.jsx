@@ -82,14 +82,14 @@ const Projects = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span>
-                                Dine &apos;n Dash
+                                Weather Dashboard
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://dinendash-66e7246af15f.herokuapp.com/">
+                                <a href="https://pvang1987.github.io/Weather-Dashboard/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Demo</button>
                                 </a>
-                                <a href="https://github.com/MatthewChappelle/Dine_In_Dash/">
+                                <a href="https://github.com/pvang1987/Weather-Dashboard">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                     Code</button>
                                 </a>
